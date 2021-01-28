@@ -1,0 +1,21 @@
+{
+  "name": "drGlobule",
+  "version": "1.0.0",
+  "description": "drGlobule Website",
+  "author": "Vianney Victoria",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "dmatrix": "^1.0.1",
+    "nuxt": "^2.0.0",
+    "window-resize-subject": "^1.4.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
