@@ -1,7 +1,7 @@
 {
-  "name": "drGlobule",
+  "name": "DrGlobule",
   "version": "1.0.0",
-  "description": "drGlobule Website",
+  "description": "DrGlobule Website",
   "author": "Vianney Victoria",
   "private": true,
   "scripts": {
